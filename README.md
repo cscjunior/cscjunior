@@ -47,6 +47,8 @@ Descobri a programação durante a graduação e me apaixonei.
 
 </td><td valign="top" width="50%">
 
+<!-- Generated using https://profilinator.rishav.dev Github Profilinator -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cscjunior&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
